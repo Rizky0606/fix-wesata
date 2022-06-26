@@ -24,9 +24,9 @@ class Footer extends HTMLElement {
                     <!-- Grid column -->
                     <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mb-4">
                         <!-- Links -->
-                        <h6 class="text-uppercase fw-bold mb-4" style="color: black!important;">
+                        <h2 class="text-uppercase fw-bold mb-4 list" style="color: black!important; font-size: 20px;">
                         Navigasi
-                        </h6>
+                        </h2>
                         <p>
                         <a href="/" class="text-reset" style="text-decoration: none;">Beranda</a>
                         </p>
@@ -45,9 +45,9 @@ class Footer extends HTMLElement {
                     <!-- Grid column -->
                     <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4">
                         <!-- Links -->
-                        <h6 class="text-uppercase fw-bold mb-4" style="color: black!important;">
+                        <h2 class="text-uppercase fw-bold mb-4 list" style="color: black!important; font-size: 20px;">
                         Kontak Kami
-                        </h6>
+                        </h2>
                         <p>
                         <i class="fas fa-envelope me-3"></i>
                             <a href="mailto:friskaprs@gmail.com" class="footer_contact">friskaprs@gmail.com</a>
